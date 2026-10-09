@@ -1,8 +1,8 @@
 welcome to gitgub
-<<<<<<< HEAD
+
+nawel changed
 i am studying in gitgub 
 also i am jouhar sir student
-=======
 
 
 
