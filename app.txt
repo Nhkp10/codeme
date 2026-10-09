@@ -1,2 +1,5 @@
-hello git	
+hello git
+welcome to gitgub
+i am studying in gitgub 
+also i am jouhar sir student
 
