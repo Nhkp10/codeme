@@ -4,7 +4,6 @@ i am studying in gitgub
 also i am jouhar sir student
 =======
 
-rashid changed 2 lines
+
 
 rashid add 2 lines today
->>>>>>> 122435d (rashid commit)
