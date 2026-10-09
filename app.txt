@@ -1,5 +1,2 @@
-nihal
-welcome to gitgub
-jouhar sir
-afssg
+hello git	
 
